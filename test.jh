@@ -1,0 +1,4 @@
+entity test {
+ name String,
+ adress String
+}
